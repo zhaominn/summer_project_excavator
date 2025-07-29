@@ -1,0 +1,31 @@
+# Unreal Engine generated folders (DO NOT TRACK)
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Optional: Ignore Binaries folder if exists (for C++ projects)
+Binaries/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visual Studio files (if C++ 프로젝트인 경우)
+.vscode/
+*.VC.db
+*.suo
+*.user
+*.userosscache
+*.sln
+*.opensdf
+*.log
+*.tlog
+*.pdb
+*.idb
+*.ipch
+*.obj
+
+# Build outputs
+Build/
+
+package/
